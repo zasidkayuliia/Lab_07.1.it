@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275B93E8-0B7B-4150-8EE3-E34CE5E405B0}|Lab_7.1.it\\Lab_7.1.it.vcxproj|C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\Lab_7.1.it\\Lab_7.1.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{275B93E8-0B7B-4150-8EE3-E34CE5E405B0}|Lab_7.1.it\\Lab_7.1.it.vcxproj|solutionrelative:Lab_7.1.it\\Lab_7.1.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB654319-9099-40E4-AD15-A022194C69DB}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB654319-9099-40E4-AD15-A022194C69DB}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T16:03:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_7.1.it.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\Lab_7.1.it\\Lab_7.1.it.cpp",
+              "RelativeDocumentMoniker": "Lab_7.1.it\\Lab_7.1.it.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\Lab_7.1.it\\Lab_7.1.it\\Lab_7.1.it.cpp",
+              "RelativeToolTip": "Lab_7.1.it\\Lab_7.1.it.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T12:57:25.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
